@@ -1,0 +1,26 @@
+{
+  "catalog": 1,
+  "name": "Jarvis 官方",
+  "plugins": [
+    {
+      "id": "calendar",
+      "name": "行事曆",
+      "description": "讀寫 nas 上 Radicale（CalDAV）的行事曆：月曆卡片、查詢、新增與修改行程。",
+      "author": "Lodiance",
+      "repo": "https://github.com/Lodiance/Jarvis_Plugin_Calendar.git",
+      "listed_at": "2026-11-20",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "spec": "0.4",
+          "tag": "v0.3.0",
+          "sha": "5301130cbf15c48c513ddc73dc6b063a99962774",
+          "permissions": { "network": true, "wiki": false, "secrets": ["caldav_url", "caldav_user", "caldav_password"] },
+          "checks": {},
+          "checked_at": null
+        }
+      ]
+    }
+  ],
+  "revoked": []
+}
