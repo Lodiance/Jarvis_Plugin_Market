@@ -36,6 +36,15 @@
           "permissions": { "network": true, "wiki": false, "secrets": ["caldav_url", "caldav_user", "caldav_password"] },
           "checks": {},
           "checked_at": null
+        },
+        {
+          "version": "0.4.2",
+          "spec": "0.5",
+          "tag": "v0.4.2",
+          "sha": "ca02057c4cb4dd0fe6a27a57b1139088ce30fe76",
+          "permissions": { "network": true, "wiki": false, "secrets": ["caldav_url", "caldav_user", "caldav_password"] },
+          "checks": {},
+          "checked_at": null
         }
       ]
     }
