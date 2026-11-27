@@ -5,7 +5,7 @@
     {
       "id": "calendar",
       "name": "行事曆",
-      "description": "在首頁看月曆和接下來的行程，也可以請 Jarvis 查詢、新增或修改行程。行程存在你自己的 nas 上，iPhone 的行事曆可以一起同步。",
+      "description": "在首頁看月曆和接下來的行程，也可以請 Jarvis 查詢、新增或修改行程。行程存在你自己的 nas 上，iPhone 的行事曆可以一起同步；iCloud、Google 等其他行事曆也能一起顯示，只看不改。",
       "author": "Lodiance",
       "repo": "https://github.com/Lodiance/Jarvis_Plugin_Calendar.git",
       "listed_at": "2026-11-20",
