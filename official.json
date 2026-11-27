@@ -72,6 +72,15 @@
           "permissions": { "network": true, "wiki": false, "secrets": ["caldav_url", "caldav_user", "caldav_password", "icloud_user", "icloud_password", "ics_urls"] },
           "checks": {},
           "checked_at": null
+        },
+        {
+          "version": "0.5.3",
+          "spec": "0.6",
+          "tag": "v0.5.3",
+          "sha": "2767a9c23c5aa9ff6e99cb8115702442b758ea2e",
+          "permissions": { "network": true, "wiki": false, "secrets": ["caldav_url", "caldav_user", "caldav_password", "icloud_user", "icloud_password", "ics_urls"] },
+          "checks": {},
+          "checked_at": null
         }
       ]
     }
